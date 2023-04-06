@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 👩‍💻2023规划：
+wepkg：go组件的基础框架
+wesso：授权认证服务、单点登录、rbac等
+weflow：工作流（流程引擎、规则引擎、表单引擎）、表单编辑器、流程编辑器
+weim：及时通信
+
 <!--
 
 **Here are some ideas to get you started:**
